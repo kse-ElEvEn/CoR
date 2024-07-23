@@ -1,4 +1,4 @@
-# CoR
+# Chain of Rebuttal(CoR): Resolving Open-Ended Text Evaluation Problem with Multi-Agent Discussion Framework
 Chain of Rebuttal: Resolving Open-Ended Text Evaluation Problem with Multi-Agent Discussion Framework
 
 
